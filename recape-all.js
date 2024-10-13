@@ -51,3 +51,14 @@ console.log(x, y);
 
 const {name, age} = {name: 'rumi', age: 30};
 console.log(name, age);
+
+// fetch
+// JSON Stringify
+// JSON parse 
+// key, Values
+// for in, for of loop
+// add or remove from an array
+// ternary operator
+// toggle boolean
+// localStorage(setItem, removeItem, getItem) 
+// Dot Notation & Bracket Notation
