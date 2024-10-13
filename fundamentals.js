@@ -4,7 +4,7 @@ let season = 'rainy';
 season = 'winter';
 
 // How to write condition..6type condition(<, >, ===, !==, <=, >=)
-// multiple conditions: &&, ||
+// multiple conditions: &&, || (all condition should be fillup: &&, 2ti condition thakle jekono akta fillup korlei hbe:||)
 
 if(fatherName === 'jhone' || season === 'rainy'){
     console.log()
@@ -16,6 +16,9 @@ else{
     console.log()
 }
 
+
+// array symbol-[]
+// object symbol- {}
 // How to declare array
 // index, How to set a value using index
 // length,push,
